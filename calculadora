@@ -59,7 +59,7 @@
 
         .igual {
             background: #28a745;
-            color: white;
+            color: black;
         }
 
         .limpar {
